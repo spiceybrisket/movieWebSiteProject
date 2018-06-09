@@ -18,6 +18,8 @@ variable_name = media.Movie(
   "Movie Trailer URL"
 )
 ```
+And then add the vairable name to the movies list at the bottom of the page
+
 Then when you run this file it will generate an html file called fresh_tomatoes.html, this can be used anywhere.
 
 ## Usage
